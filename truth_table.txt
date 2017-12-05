@@ -1,0 +1,10 @@
+
+2. Executing EVAL pass (evaluate the circuit given an input).
+
+  \A  \B | \OUT
+ --- --- | ----
+ 2'01 2'00 |  2'01
+ 2'00 2'11 |  2'01
+ 2'10 2'00 |  2'00
+ 2'11 2'10 |  2'10
+
